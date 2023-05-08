@@ -58,6 +58,7 @@ nav ul {
     background: none;
     font-weight: 500;
     font-size: 1.0rem;
+    cursor: pointer;
 
   }
 
@@ -69,6 +70,7 @@ nav ul {
     padding: 0.4rem;
     border-radius: 7px;
     border: 1.5px solid #000;
+    cursor: pointer;
   }
   
   /* homepage styles */
